@@ -340,7 +340,7 @@ todoArray = [
 - Olika färger för olika kategorier?
 
 ### 🎯 **Deadline-funktionalitet**
-Vad om vissa todos har deadline? "Lämna in uppsats" borde kanske visas i rött om det är försenat?
+Vad händer om vissa todos har en deadline? "Lämna in uppsats" borde kanske visas i rött om det är försenat?
 
 **Tekniska utmaningar:**
 - JavaScript Date-objekt för att hantera datum
